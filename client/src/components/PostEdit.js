@@ -9,7 +9,7 @@ const PostEdit = (props) => {
             <TextInput source='title' />
             <TextInput multiline source='title' />
             <DateInput label='Publish' source='publishedAt'/>
-        </SimpleForm>
+        </SimpleForm> 
 
     </Edit>
   )
