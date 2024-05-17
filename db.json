@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Firt Post",
+      "body": "This is the body of the post",
+      "publishedAt": "17-5-2024"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "This is the body of the post",
+      "publishedAt": "17-5-2024"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "body": "This is the body of the post",
+      "publishedAt": "17-5-2024"
+    },
+    {
+      "id": "3fab",
+      "title": "Post Four",
+      "body": "This is the body",
+      "publishedAt": "17-05-2024"
+    },
+    {
+        "id": "5",
+        "title": "Post 5",
+        "body": "This is the body",
+        "publishedAt": "17-05-2024"
+      }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Tony Simiyu",
+      "email": "anthonysimiyu126gmail.com"
+    }
+  
+  ]
+}
